@@ -1,0 +1,5 @@
+present.css contains the current css typography
+
+typo.html and typo.css contains the redesigned typography
+
+Check and give me a review
